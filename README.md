@@ -1,3 +1,7 @@
+### NOTE:
+__This project has moved and this repo is not being updated Turn back now! Get the latest version of Deact [here](https://github.com/lukebelliveau/deact).__
+
+
 # __Deact__
 ## React under the hood
 
